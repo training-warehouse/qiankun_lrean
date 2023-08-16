@@ -1,0 +1,15 @@
+{
+  "name": "sub-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "cross-env http-server ./ -p 8081 --cros"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "http-server": "^14.1.1"
+  }
+}
